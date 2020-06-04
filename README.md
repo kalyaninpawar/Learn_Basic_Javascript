@@ -1,3 +1,4 @@
+![](https://seeklogo.com/images/J/javascript-logo-E967E87D74-seeklogo.com.png)
 # Learn_Basic_Javascript
 
 ### Why Study JavaScript?
