@@ -15,3 +15,8 @@ Web pages are not the only place where JavaScript is used. Many desktop and serv
 
 # JavaScript Introduction
 
+### JavaScript Can Change HTML Content
+#### One of many JavaScript HTML methods is getElementById().
+This example uses the method to "find" an HTML element (with id="demo") and changes the element content (innerHTML) to "Hello JavaScript":
+
+
