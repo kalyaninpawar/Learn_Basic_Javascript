@@ -9,7 +9,7 @@
 
    - CSS to specify the layout of web pages
 
-   - JavaScript to program the behavior of web pages
+   - JavaScript to program the behaviour of web pages
 
 Web pages are not the only place where JavaScript is used. Many desktop and server programs use JavaScript. Node.js is the best known. Some databases, like MongoDB and CouchDB, also use JavaScript as their programming language.
 
@@ -22,4 +22,23 @@ This example uses the method to "find" an HTML element (with id="demo") and chan
 ## Example
 > - document.getElementById("demo").innerHTML = "Hello JavaScript"; 
 
+### JavaScript Can Change HTML Attribute Values
+> In this example JavaScript changes the value of the src (source) attribute of an <img> tag:
 
+      <html>
+      <body>
+
+      <h2>What Can JavaScript Do?</h2>
+
+      <p>JavaScript can change HTML attribute values.</p>
+
+      <p>In this case JavaScript changes the value of the src (source) attribute of an image.</p>
+
+      <button onclick="document.getElementById('myImage').src='pic_bulbon.gif'">Turn on the light</button>
+
+      <img id="myImage" src="pic_bulboff.gif" style="width:100px">
+
+      <button onclick="document.getElementById('myImage').src='pic_bulboff.gif'">Turn off the light</button>
+
+      </body>
+      </html>
