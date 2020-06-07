@@ -27,5 +27,6 @@ However, getting comfortable with JavaScript is more challenging than getting co
 4. In your index.html file, enter this code on a new line, just before the closing </body> tag: 
 > - const myHeading = document.querySelector('h1');
 > - myHeading.textContent = 'Hello world!';
-5. Make sure the HTML and JavaScript files are saved. Then load index.html in your browser. You should see something like this:
+5. Make sure the HTML and JavaScript files are saved. Then load index.html in your browser. You should see something like this
+
 ![](https://media.prod.mdn.mozit.cloud/attachments/2014/11/21/9543/3561d5218e249d28b330b94346633ed8/hello-world.png)
