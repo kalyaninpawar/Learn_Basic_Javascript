@@ -21,3 +21,5 @@ However, getting comfortable with JavaScript is more challenging than getting co
 
 - Go to your test site and create a new folder named scripts. Within the scripts folder, create a new file called main.js, and    save it.
 - In your index.html file, enter this code on a new line, just before the closing </body> tag: 
+
+> - <script src="scripts/main.js"></script>
