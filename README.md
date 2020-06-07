@@ -18,3 +18,6 @@ JavaScript is one of the most popular modern web technologies! As your JavaScrip
 However, getting comfortable with JavaScript is more challenging than getting comfortable with HTML and CSS. You may have to start small, and progress gradually. To begin, let's examine how to add JavaScript to your page for creating a Hello world! example. (Hello world! is the standard for introductory programming examples.)
 
 > Important: If you haven't been following along with the rest of our course, download this example code and use it as a starting point.
+
+- Go to your test site and create a new folder named scripts. Within the scripts folder, create a new file called main.js, and    save it.
+- In your index.html file, enter this code on a new line, just before the closing </body> tag: 
