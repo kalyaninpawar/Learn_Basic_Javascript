@@ -30,3 +30,8 @@ However, getting comfortable with JavaScript is more challenging than getting co
 5. Make sure the HTML and JavaScript files are saved. Then load index.html in your browser. You should see something like this
 
 ![](https://media.prod.mdn.mozit.cloud/attachments/2014/11/21/9543/3561d5218e249d28b330b94346633ed8/hello-world.png)
+
+> Note: The reason the instructions (above) place the <script> element near the bottom of the HTML file is that the browser  reads code in the order it appears in the file.
+
+> If the JavaScript loads first and it is supposed to affect the HTML that hasn't loaded yet, there could be problems. Placing JavaScript near the bottom of an HTML page is one way to accommodate this dependency. To learn more about alternative approaches, see Script loading strategies.
+
