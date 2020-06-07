@@ -28,5 +28,4 @@ However, getting comfortable with JavaScript is more challenging than getting co
 > - const myHeading = document.querySelector('h1');
 > - myHeading.textContent = 'Hello world!';
 5. Make sure the HTML and JavaScript files are saved. Then load index.html in your browser. You should see something like this:
-
-
+![](https://media.prod.mdn.mozit.cloud/attachments/2014/11/21/9543/3561d5218e249d28b330b94346633ed8/hello-world.png)
