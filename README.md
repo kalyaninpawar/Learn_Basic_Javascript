@@ -1,44 +1,18 @@
 ![](https://seeklogo.com/images/J/javascript-logo-E967E87D74-seeklogo.com.png)
 # Learn_Basic_Javascript
 
-### Why Study JavaScript?
+### What is JavaScript?
 
-#### JavaScript is one of the 3 languages all web developers must learn:
+JavaScript ("JS" for short) is a full-fledged dynamic programming language that can add interactivity to a website. It was invented by Brendan Eich (co-founder of the Mozilla project), the Mozilla Foundation, and the Mozilla Corporation.
 
-   - HTML to define the content of web pages
+JavaScript is versatile and beginner-friendly. With more experience, you'll be able to create games, animated 2D and 3D graphics, comprehensive database-driven apps, and much more!
 
-   - CSS to specify the layout of web pages
+JavaScript itself is relatively compact, yet very flexible. Developers have written a variety of tools on top of the core JavaScript language, unlocking a vast amount of functionality with minimum effort. These include:
 
-   - JavaScript to program the behaviour of web pages
+    Browser Application Programming Interfaces (APIs) built into web browsers, providing functionality such as dynamically creating HTML and setting CSS styles; collecting and manipulating a video stream from a user's webcam, or generating 3D graphics and audio samples.
+    Third-party APIs that allow developers to incorporate functionality in sites from other content providers, such as Twitter or Facebook.
+    Third-party frameworks and libraries that you can apply to HTML to accelerate the work of building sites and applications.
 
-Web pages are not the only place where JavaScript is used. Many desktop and server programs use JavaScript. Node.js is the best known. Some databases, like MongoDB and CouchDB, also use JavaScript as their programming language.
+It's outside the scope of this article—as a light introduction to JavaScript—to present the details of how the core JavaScript language is different from the tools listed above. You can learn more in MDN's JavaScript learning area, as well as in other parts of MDN.
 
-# JavaScript Introduction
-
-### JavaScript Can Change HTML Content
-#### One of many JavaScript HTML methods is getElementById().
-This example uses the method to "find" an HTML element (with id="demo") and changes the element content (innerHTML) to "Hello JavaScript"
-
-## Example
-> - document.getElementById("demo").innerHTML = "Hello JavaScript"; 
-
-### JavaScript Can Change HTML Attribute Values
-> In this example JavaScript changes the value of the src (source) attribute of an <img> tag:
-
-      <html>
-      <body>
-
-      <h2>What Can JavaScript Do?</h2>
-
-      <p>JavaScript can change HTML attribute values.</p>
-
-      <p>In this case JavaScript changes the value of the src (source) attribute of an image.</p>
-
-      <button onclick="document.getElementById('myImage').src='pic_bulbon.gif'">Turn on the light</button>
-
-      <img id="myImage" src="pic_bulboff.gif" style="width:100px">
-
-      <button onclick="document.getElementById('myImage').src='pic_bulboff.gif'">Turn off the light</button>
-
-      </body>
-      </html>
+The section below introduces some aspects of the core language, and offers an opportunity to play with a few browser API features too. Have fun!
