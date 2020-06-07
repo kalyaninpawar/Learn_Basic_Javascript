@@ -16,3 +16,5 @@ The section below introduces some aspects of the core language, and offers an op
 
 JavaScript is one of the most popular modern web technologies! As your JavaScript skills grow, your websites will enter a new dimension of power and creativity.
 However, getting comfortable with JavaScript is more challenging than getting comfortable with HTML and CSS. You may have to start small, and progress gradually. To begin, let's examine how to add JavaScript to your page for creating a Hello world! example. (Hello world! is the standard for introductory programming examples.)
+
+> Important: If you haven't been following along with the rest of our course, download this example code and use it as a starting point.
