@@ -43,7 +43,7 @@ To give you a better understanding of how JavaScript works, let's explain some o
 ### Variables
 Variables are containers that store values. You start by declaring a variable with the var (less recommended, dive deeper for the explanation) or the let keyword, followed by the name you give to the variable:
 
-> 1.let myVariable;
+> #### 1.let myVariable;
 
 > Note: A semicolon at the end of a line indicates where a statement ends. It is only required when you need to separate statements on a single line. However, some people believe it's good practice to have semicolons at the end of each statement. There are other rules for when you should and shouldn't use semicolons. For more details, see Your Guide to Semicolons in JavaScript.
 
