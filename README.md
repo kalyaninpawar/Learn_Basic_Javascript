@@ -43,14 +43,14 @@ To give you a better understanding of how JavaScript works, let's explain some o
 ### Variables
 Variables are containers that store values. You start by declaring a variable with the var (less recommended, dive deeper for the explanation) or the let keyword, followed by the name you give to the variable:
 
-> #### 1.let myVariable;
+        > 1.let myVariable;
 
-> Note: A semicolon at the end of a line indicates where a statement ends. It is only required when you need to separate statements on a single line. However, some people believe it's good practice to have semicolons at the end of each statement. There are other rules for when you should and shouldn't use semicolons. For more details, see Your Guide to Semicolons in JavaScript.
+    > **Note**: A semicolon at the end of a line indicates where a statement ends. It is only required when you need to separate statements on a single line. However, some people believe it's good practice to have semicolons at the end of each statement. There are other rules for when you should and shouldn't use semicolons. For more details, see Your Guide to Semicolons in JavaScript.
 
-> **Note**: You can name a variable nearly anything, but there are some restrictions. (See this section about naming rules.) If you are unsure, you can check your variable name to see if it's valid.
+    > **Note**: You can name a variable nearly anything, but there are some restrictions. (See this section about naming rules.) If you are unsure, you can check your variable name to see if it's valid.
 
-> **Note**: JavaScript is case sensitive. This means myVariable is not the same as myvariable. If you have problems in your code, check the case!
+    > **Note**: JavaScript is case sensitive. This means myVariable is not the same as myvariable. If you have problems in your code, check the case!
 
-> **Note**: For more details about the difference between var and let, see The difference between var and let.
+    > **Note**: For more details about the difference between var and let, see The difference between var and let.
 
-    After declaring a variable, you can give it a value:
+   After declaring a variable, you can give it a value:
