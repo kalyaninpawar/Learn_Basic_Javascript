@@ -33,7 +33,8 @@ However, getting comfortable with JavaScript is more challenging than getting co
 
 > Note: The reason the instructions (above) place the <script> element near the bottom of the HTML file is that the browser  reads code in the order it appears in the file.
 
-> If the JavaScript loads first and it is supposed to affect the HTML that hasn't loaded yet, there could be problems. Placing JavaScript near the bottom of an HTML page is one way to accommodate this dependency. To learn more about alternative approaches, see Script loading strategies.
+> If the JavaScript loads first and it is supposed to affect the HTML that hasn't lo
+aded yet, there could be problems. Placing JavaScript near the bottom of an HTML page is one way to accommodate this dependency. To learn more about alternative approaches, see Script loading strategies.
 
 ### Language basics crash course
 
@@ -41,4 +42,6 @@ To give you a better understanding of how JavaScript works, let's explain some o
 
 ### Variables
 Variables are containers that store values. You start by declaring a variable with the var (less recommended, dive deeper for the explanation) or the let keyword, followed by the name you give to the variable:
+
+> 1.let myVariable;
 
