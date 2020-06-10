@@ -53,3 +53,4 @@ Variables are containers that store values. You start by declaring a variable wi
 
 > **Note**: For more details about the difference between var and let, see The difference between var and let.
 
+    After declaring a variable, you can give it a value:
