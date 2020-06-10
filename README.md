@@ -45,3 +45,5 @@ Variables are containers that store values. You start by declaring a variable wi
 
 > 1.let myVariable;
 
+> Note: A semicolon at the end of a line indicates where a statement ends. It is only required when you need to separate statements on a single line. However, some people believe it's good practice to have semicolons at the end of each statement. There are other rules for when you should and shouldn't use semicolons. For more details, see Your Guide to Semicolons in JavaScript.
+
