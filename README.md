@@ -52,5 +52,4 @@ Variables are containers that store values. You start by declaring a variable wi
   > **Note**: JavaScript is case sensitive. This means myVariable is not the same as myvariable. If you have problems in your code, check the case!
 
   > **Note**: For more details about the difference between var and let, see The difference between var and let.
-
-   After declaring a variable, you can give it a value:
+After declaring a variable, you can give it a value:
